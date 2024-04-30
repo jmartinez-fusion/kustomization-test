@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: meta-ms-auth
-          image: jmartinezblanco/meta-ms-auth:latest 
+          image: jmartinezblanco/meta-ms-auth:latest
           ports:
             - containerPort: 3000
               protocol: TCP
